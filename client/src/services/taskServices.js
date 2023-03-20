@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const apiUrl = 'http://todo-app-mern-api.vercel.app/api/tasks';
+const apiUrl = 'https://todo-app-mern-api.vercel.app/api/tasks';
 
 // Get All Task
 export function getTasks() {
